@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: #00009c;
+}
+#atla {
+  background-color: #3569d8;
+  padding-top: 1px;
+}
+.fullImgs {
+  width: 100%;
+}
+.posterImgs {
+  width: 50px;
+}
