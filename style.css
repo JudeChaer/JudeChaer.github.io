@@ -1,14 +1,26 @@
-h1 {
-  text-align: center;
-  color: #00009c;
+h1{
+  text-align:center;
+  color:#00009c;
 }
-#atla {
-  background-color: #3569d8;
-  padding-top: 1px;
+#atla{
+  background-color:#3569D8;
+  padding-top:1px;
+  padding-left:3px;
+  padding-right:3px;
 }
-.fullImgs {
-  width: 100%;
+#MovieTable td {
+  border:1px solid ;
+  padding:5px;
 }
-.posterImgs {
-  width: 50px;
+#MovieTable th{
+  border:1px solid ;
+}
+#MovieTable{
+  border-collapse:collapse;
+}
+.fullImgs{
+  width:100%;
+}
+.posterImgs{
+  width:50px;
 }
